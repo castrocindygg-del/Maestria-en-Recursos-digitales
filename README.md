@@ -4,7 +4,7 @@
 
 ##Diseño y Prototipo de un Repositorio
 ## Maestría en Recursos Digitales aplicados a la Educación
-## Maestría en Recursos Digitales aplicados a la Educación
+## Diseño y Prototipo de un Repositorio
 **Institución:** [Universidad de Cartagena]  
 **Asignatura:** [RED 95_Recursos Educativos Digitales]  
 **Estudiante:** [Cindy Milena Castro Gutiérrez]  
