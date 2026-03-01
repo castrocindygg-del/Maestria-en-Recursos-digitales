@@ -1,4 +1,4 @@
-# [Diseño y Prototipo de un Repositorio] 
+# Diseño y Prototipo de un Repositorio] 
 
 ## Maestría en Recursos Digitales aplicados a la Educación
 **Institución:** [Universidad de Cartagena]  
