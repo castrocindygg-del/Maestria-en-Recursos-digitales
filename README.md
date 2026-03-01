@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://www.grupolarabida.org/wp-content/uploads/2020/10/Colombia_UniversidaddeCartagena_UNICARTAGENA_22_.jpg" alt="Logo Universidad" width="200"/>
+</p>
+
+<p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBaODs0aochlSupRo2WeQHyjW66NM6eujqzA&s" alt="Logo Universidad" width="200"/>
 </p>
 
