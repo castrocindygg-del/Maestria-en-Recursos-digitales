@@ -2,7 +2,7 @@
 
 ## Maestría en Recursos Digitales aplicados a la Educación
 **Institución:** [Universidad de Cartagena]  
-**Asignatura:** [RED 95_Recursos Esucativos Digitales]  
+**Asignatura:** [RED 95_Recursos Educativos Digitales]  
 **Estudiante:** [Cindy Milena Castro Gutiérrez]  
 **Fecha:** [Febrero, 08, 2026]
 
