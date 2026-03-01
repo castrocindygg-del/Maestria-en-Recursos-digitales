@@ -41,3 +41,7 @@ A continuación, se describen los recursos educativos digitales contenidos en es
 | `UNIDAD 4_.pdf` | Gestión y Publicación | Guía para la implementación, roles y flujos de trabajo en repositorios. | PDF | LOM |
 
 > **Nota:** Cada recurso ha sido catalogado para facilitar su búsqueda, recuperación y reutilización en contextos académicos.
+
+
+* [Ver Guía de Aprendizaje Cooperativo (Cooperative Learning)](./COOPERATIVE_LEARNING.md)
+
