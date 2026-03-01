@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PEGAR_AQUI_LA_URL_DE_TU_IMAGEN" alt="Logo Universidad" width="200"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBaODs0aochlSupRo2WeQHyjW66NM6eujqzA&s" alt="Logo Universidad" width="200"/>
 </p>
 # Diseño y Prototipo de un Repositorio
 
