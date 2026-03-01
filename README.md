@@ -26,3 +26,18 @@ El sistema está diseñado bajo una arquitectura de flujos de trabajo que distin
 2. **Docente:** Carga de recursos y gestión de contenidos.
 3. **Evaluador:** Revisión de calidad bajo criterios pedagógicos.
 4. **Estudiante:** Consulta, descarga e interacción con los recursos.
+
+---
+
+### 📊 Inventario de Recursos (Metadatos LOM/Dublin Core)
+
+A continuación, se describen los recursos educativos digitales contenidos en este repositorio, siguiendo estándares internacionales de catalogación:
+
+| Archivo | Título del Recurso | Descripción Pedagógica | Formato | Estándar |
+| :--- | :--- | :--- | :--- | :--- |
+| `unidad 1.pdf` | Fundamentos de RED | Conceptos básicos y características de los Recursos Educativos Digitales. | PDF | LOM |
+| `UNIDAD 2.pdf` | Diseño y Estructura | Metodologías para el diseño instruccional y arquitectura de contenidos. | PDF | LOM |
+| `UNIDAD 3.pdf` | Evaluación de Calidad | Criterios y modelos para evaluar la efectividad pedagógica de un RED. | PDF | LOM |
+| `UNIDAD 4_.pdf` | Gestión y Publicación | Guía para la implementación, roles y flujos de trabajo en repositorios. | PDF | LOM |
+
+> **Nota:** Cada recurso ha sido catalogado para facilitar su búsqueda, recuperación y reutilización en contextos académicos.
