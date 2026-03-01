@@ -2,7 +2,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBaODs0aochlSupRo2WeQHyjW66NM6eujqzA&s" alt="Logo Universidad" width="200"/>
 </p>
 
-##Diseño y Prototipo de un Repositorio
+
 ## Maestría en Recursos Digitales aplicados a la Educación
 ## Diseño y Prototipo de un Repositorio
 **Institución:** [Universidad de Cartagena]  
