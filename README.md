@@ -11,7 +11,7 @@
 ## Diseño y Prototipo de un Repositorio
 **Institución:** [Universidad de Cartagena]  
 **Asignatura:** [RED 95_Recursos Educativos Digitales]  
-**Estudiante:** [Cindy Castro Gutiérrez - Paula Castañeda]  
+**Estudiante:** [Ronald Javier Zambrano Cantillo]  
 **Fecha:** [Febrero, 08, 2026]
 
 ---
